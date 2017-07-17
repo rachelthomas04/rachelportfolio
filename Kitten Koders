@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Kittens For Sale!</title>
+    </head>
+    <body>
+    <body style="background-color:#E6E6FA"> </body>
+    <p style="font-size:50px"> Kittens for Sale </p>
+        <img src = "https://s-media-cache-ak0.pinimg.com/originals/7a/2c/d1/7a2cd1020efb1f12c69afb2f1ecdf9f6.jpg" height="500" alt = "group of kittens" height="400">
+            <!-- Rachel has coded the above -->
+         <p> These lovely cats that I have bred are up for sale! Their breed is <a href="https://en.wikipedia.org/wiki/Norwegian_Forest_cat" target="_blank"> Norwegian Forest Cat. </a> They don't have any major health problems, other than a few minor kidney and heart issues.</p>
+        <img src="https://s-media-cache-ak0.pinimg.com/236x/64/1a/aa/641aaa70c5dc77fd0d997a7a80b79a18--hate-cats-norwegian-forest-cat.jpg" alt= "small kitten">
+             <!-- above was coded by Diana -->
+        <p> These cats are known for being fluffy, friendly, and big. Of course, when they're kittens, they're small and cute.  </p>
+             <!-- Above was coded by Rachel! -->
+        <img src="http://cdn3-www.cattime.com/assets/uploads/gallery/norwegian-forest-cats-and-kittens/norwegian-forest-cats-kittens-7.jpg"height= "300" alt="" >
+        <!-- Diana has coded the above! -->
+        <p>For more information, contact notarealemail@gmail.com or (555)-555-5555</p>
+        <img src="http://www.catgifpage.com/gifs/318.gif">
+        <!-- Rachel has coded the above! -->
+    </body>
+</html>
