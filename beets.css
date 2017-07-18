@@ -1,0 +1,34 @@
+body{background: #00cc66;}
+ul{font-size: 50px;}
+ul{ 
+	min-width: 696px;
+	list-style: none;
+	padding-top: 20px;
+	text-align:center;
+	border-style:solid;
+	}
+ul{
+  list-style: none;
+}
+li{
+  display: inline;
+}
+ul{font-family: palatino;}
+ul{border-collapse:separate;
+border-spacing: 10px 50px;}
+#title {text-align:center;
+        font-size: 70px;
+        color:#660066;}
+h2{font-size: 50px;
+text-align:center;}
+h2{position:relative;
+top: 600px;}
+#image { height:360px;
+         width: 480px;
+         background-color:white;}
+#image2 {background-color:black;
+         height:400px;
+         width:400px;
+         float:right;}
+#image {background-image: url("https://i.ytimg.com/vi/KbNaZs6QaWs/hqdefault.jpg");}
+#image2 {background-image: url("http://cdn-img.health.com/sites/default/files/styles/400x400/public/1458226022/GettyImages-150972372.jpg?itok=Tyy5MX4e");}
