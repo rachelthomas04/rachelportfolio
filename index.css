@@ -1,0 +1,50 @@
+ul{ 
+    
+    list-style:none;
+	text-align:center;
+	border-style:solid;
+	font-family:palatino;
+	background-color:lightpink;
+	font-size:30px;
+	
+}
+li{
+    display:inline;
+}
+
+body{
+    background-color:#bfcbfc;
+}
+h1{
+    text-align:center;
+    font-family:palatino;
+    font-size:80px;
+    
+}
+h2{
+    text-align:center;
+}
+#box1{
+    float:left;
+    height:400px;
+    width:450px;
+    padding:40px;
+    background:url("https://19818-presscdn-pagely.netdna-ssl.com/wp-content/uploads/41e/fe/tamborine.gif");
+}
+#box2{
+    float:right;
+    height:400px;
+    width:450px;
+    padding:40px;
+    background:url("https://media.giphy.com/media/pt0EKLDJmVvlS/giphy.gif");
+
+}
+
+#box4{
+    position:absolute;
+    bottom:0;
+    height:100px;
+    width:2000px;
+    padding:90px;
+    background:url("https://s-media-cache-ak0.pinimg.com/originals/de/80/b5/de80b5d2845334a3586c14ec6fedca90.jpg");
+}
