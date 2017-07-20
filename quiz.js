@@ -32,15 +32,15 @@ $("#submit").click(function() {
 
     
 if(gry >= huff && gry >= sly && gry>=rav){
-    $("h2").append ("You are Gryffindor!");
+    $("h2").html ("You are Gryffindor!");
 }
 if(huff >= gry && huff>= sly && huff>=rav){
-    $("h2").append ("You are Hufflepuff!");
+    $("h2").html ("You are Hufflepuff!");
 }
 if (sly >=gry && sly>=huff && sly>= rav){
-    $("h2").append ("You are Slytherin!");
+    $("h2").html("You are Slytherin!");
 }
 if(rav>=gry && rav>=sly && rav>=huff){
-    $("h2").append ("You are Ravenclaw!");
+    $("h2").html ("You are Ravenclaw!");
 }
 });
