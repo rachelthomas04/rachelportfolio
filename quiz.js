@@ -28,6 +28,7 @@ $("#submit").click(function() {
     add_points_question("hobby");
     add_points_question("show");
     add_points_question("trait");
+     add_points_question("job");
 
 
     
