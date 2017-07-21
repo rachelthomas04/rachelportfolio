@@ -40,11 +40,22 @@ h2{
 
 }
 
-#box4{
+#box3{
     position:absolute;
     bottom:0;
-    height:250px;
-    width:5000px;
-    padding:90px;
-    background:url("http://t.wallpaperweb.org/wallpaper/nature/3840x1024/9XMedia1280TripleHorizontalMountainsclouds.jpg");
+    height:400px;
+    width:450px;
+    padding:40px;
+    background:url("http://static.boredpanda.com/blog/wp-content/uploads/2016/07/totoro-exercising-100-days-of-gifs-cl-terryart-11-578f811fc82b3__605.gif");
 }
+
+#box4{
+    position:absolute;
+    right:0;
+    bottom:0;
+    height:400px;
+    width:450px;
+    padding:40px;
+    background:url("http://static.boredpanda.com/blog/wp-content/uploads/2016/07/totoro-exercising-100-days-of-gifs-cl-terryart-6-578f80ffa3727__605.gif");
+}
+    
