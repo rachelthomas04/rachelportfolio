@@ -42,7 +42,6 @@ h2{
 
 #box3{
     position:absolute;
-	left:0;
     bottom:0;
     height:400px;
     width:450px;
@@ -57,6 +56,16 @@ h2{
     height:400px;
     width:450px;
     padding:40px;
-    background:url("http://static.boredpanda.com/blog/wp-content/uploads/2016/07/totoro-exercising-100-days-of-gifs-cl-terryart-6-578f80ffa3727__605.gif");
+    background:url("https://s-media-cache-ak0.pinimg.com/originals/f8/41/bd/f841bd8e999598f215fd67924156e2c0.gif");
 }
-    
+
+#box5{
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  height:540px;
+  width:540px;
+  transform: translate(-50%, -50%);
+  background:url("http://www.fubiz.net/wp-content/uploads/2017/01/totorodailylife16.gif");
+}
+   
